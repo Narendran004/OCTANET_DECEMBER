@@ -4,7 +4,7 @@ In this project I build TODOs app using HTML, CSS and JAVASCRIPT. It's extremely
 
 CREATED BY: Narendran
 
-###  Now show the some examples of the project
+###  Now some examples of the project
 
 
 
