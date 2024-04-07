@@ -6,7 +6,6 @@ CREATED BY: Narendran
 
 ###  Now show the some examples of the project
 
-![image](https://user-images.githubusercontent.com/99761772/209714776-b0fb0778-59c5-4c29-a612-f5d24a4f7cb2.png)
 
 
 ![image](https://user-images.githubusercontent.com/99761772/209714858-8100c66b-d563-4608-8641-9254e765c863.png)
